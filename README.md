@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kgcarroll
-- 👀 I’m interested in React, crypto, and anything fun.
-- 🌱 I’m currently learning React, Golang, Node.js
-- 💞️ I’m looking to collaborate on any kind of cool crypto project
+- 👀 I’m interested in React, live music, and anything outdoors.
+- 🌱 I’m currently studying React & Next.js, among others.
+- 💞️ I’d love to collaborate, really on any kind of cool project.
 - 📫 How to reach me: k_g_carroll@yahoo.com
 
 <!---
